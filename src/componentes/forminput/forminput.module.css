@@ -1,0 +1,9 @@
+.input{
+    display: flex;
+    width: 250px;
+    flex-direction: column;
+    height: 42px;
+    margin: 8px 0;
+    border-radius: 10px;
+    border-color:rgb(13, 130, 232);
+}

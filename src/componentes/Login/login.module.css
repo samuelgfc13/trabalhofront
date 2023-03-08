@@ -1,0 +1,13 @@
+.card{
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    padding: 60px;
+    border-radius: 10px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+}
+
+.titulo{
+    text-align: center;
+}

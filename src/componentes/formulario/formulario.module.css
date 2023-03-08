@@ -1,0 +1,14 @@
+.cardform{
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    padding: 30px;
+    border-radius: 6px;
+    max-width: 900px;
+    width: 100%;
+    margin:0 15px;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+}
+
+.titulo{
+    text-align: center;
+}
